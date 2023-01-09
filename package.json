@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "2gis-maps": "^3.7.3"
   }
 }
